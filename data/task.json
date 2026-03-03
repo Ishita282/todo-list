@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Complete Assignment 7",
+      "description": "Plan APIs for To-Do List app",
+      "status": "pending",
+      "createdAt": "2026-03-03",
+      "dueDate": "2026-03-05"
+    },
+    {
+      "id": "2",
+      "title": "Study React Hooks",
+      "description": "Revise useState and useEffect",
+      "status": "completed",
+      "createdAt": "2026-03-01",
+      "dueDate": "2026-03-04"
+    },
+    {
+      "id": "3",
+      "title": "Practice JavaScript",
+      "description": "Solve array and object problems",
+      "status": "pending",
+      "createdAt": "2026-03-02",
+      "dueDate": "2026-03-06"
+    }
+  ]
+}
